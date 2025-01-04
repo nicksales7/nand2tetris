@@ -6,4 +6,5 @@ projects/.DS_Store
 
 !projects/**
 !tools/**
+!README.md
 !.gitignore
