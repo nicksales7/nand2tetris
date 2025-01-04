@@ -1,0 +1,9 @@
+*
+projects/.DS_Store
+
+!projects/
+!tools/
+
+!projects/**
+!tools/**
+!.gitignore
